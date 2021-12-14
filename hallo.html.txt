@@ -1,3 +1,3 @@
-eerste regel
-tweede regel
-derde regel
+Eerste Regel
+Tweede Regel
+Derde Regel
